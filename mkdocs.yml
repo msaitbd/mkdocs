@@ -1,0 +1,9 @@
+site_name: Documentation
+nav:
+  - Home: index.md
+  
+# https://squidfunk.github.io/mkdocs-material/
+theme:
+  name: material
+  favicon: img/favicon.png
+  logo: img/favicon.png
