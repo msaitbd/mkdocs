@@ -3,8 +3,8 @@ site_name: Documentation
 # https://squidfunk.github.io/mkdocs-material/
 theme:
   name: material
-  favicon: img/favicon.png
-  logo: img/favicon.png
+  favicon: img/edumyst-favicon.png
+  logo: img/edumyst-favicon.png
   palette:
     scheme: default
     primary: indigo
