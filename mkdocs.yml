@@ -1,6 +1,4 @@
 site_name: Documentation
-nav:
-  - Home: index.md
   
 # https://squidfunk.github.io/mkdocs-material/
 theme:
