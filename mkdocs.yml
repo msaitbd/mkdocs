@@ -7,5 +7,19 @@ theme:
   logo: img/edumyst-favicon.png
   palette:
     scheme: default
-    primary: indigo
+    primary: blue
     accent: blue
+  features:
+    - i18n
+
+plugins:
+  - i18n:
+      default_language: en
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+        - locale: bn
+          name: বাংলা
+          build: true
