@@ -3,14 +3,20 @@ site_name: Documentation
 # https://squidfunk.github.io/mkdocs-material/
 theme:
   name: material
-  favicon: img/edumyst-favicon.png
-  logo: img/edumyst-favicon.png
+  custom_dir: overrides
+  favicon: assets/img/edumyst-favicon.png
+  logo: assets/img/edumyst-favicon.png
   palette:
     scheme: default
     primary: blue
     accent: blue
   features:
     - i18n
+extra_css:
+  - assets/css/custom.css
+
+extra_javascript:
+  - assets/js/custom.js
 
 plugins:
   - i18n:
@@ -23,3 +29,34 @@ plugins:
         - locale: bn
           name: বাংলা
           build: true
+          
+nav:
+  - Home: 'index.md'
+  - Admin: 
+    - Dashboard: 'dashboard.md'
+    - Admission: admission.md 
+    - Student: student.md 
+    - Attendance: attendance.md
+    - Fees: fees.md 
+    - Boarding Management: boarding_management.md 
+    - Fund: fund.md 
+    - HRM & Payroll: hrm_payroll.md 
+    - Leave Management: leave_management.md 
+    - Notice and Uploads: notice_and_uploads.md 
+    - Home Work: home_work.md 
+    - Exam: exam.md 
+    - Marks & Result: marks_result.md 
+    - SMS & Email: sms_email.md 
+    - Event & News: event_news.md 
+    - Accounting: accounting.md 
+    - Academic Setup: academic_setup.md 
+    - Academic Cards: academic_cards.md 
+    - Front Office: front_office.md 
+    - Item Configuration: item_configuration.md 
+    - Purchase: purchase.md 
+    - Inventory: inventory.md 
+    - System Settings: system_settings.md 
+    - User Manage: user_manage.md 
+    - Profile: profile.md 
+    - Frontend Setup: frontend_setup.md 
+    - Software Subscription: software_subscription.md 

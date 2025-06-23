@@ -1,2 +1,2 @@
-# Welcome to MSA Soft Documentation
+# Welcome to Edumyst Documentation
 
