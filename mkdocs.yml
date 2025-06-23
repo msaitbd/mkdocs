@@ -12,6 +12,7 @@ theme:
     accent: blue
   features:
     - i18n
+
 extra_css:
   - assets/css/custom.css
 
