@@ -2,16 +2,394 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>None./</loc>
-        <lastmod>2025-06-23</lastmod>
+        <lastmod>2025-07-10</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="None"/>
         <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/"/>
     </url>
     <url>
+        <loc>Noneadmin/academic_cards/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/academic_cards/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/academic_cards/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/academic_setup/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/academic_setup/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/academic_setup/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/accounting/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/accounting/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/accounting/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/admission/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/admission/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/admission/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/attendance/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/attendance/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/attendance/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/boarding_management/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/boarding_management/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/boarding_management/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/dashboard/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/dashboard/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/event_news/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/event_news/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/event_news/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/exam/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/exam/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/exam/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/fees/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/fees/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/fees/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/front_office/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/front_office/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/front_office/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/frontend_setup/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/frontend_setup/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/frontend_setup/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/fund/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/fund/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/fund/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/home_work/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/home_work/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/home_work/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/hrm_payroll/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/hrm_payroll/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/hrm_payroll/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/inventory/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/inventory/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/inventory/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/item_configuration/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/item_configuration/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/item_configuration/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/leave_management/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/leave_management/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/leave_management/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/marks_result/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/marks_result/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/marks_result/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/notice_and_uploads/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/notice_and_uploads/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/notice_and_uploads/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/profile/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/profile/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/profile/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/purchase/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/purchase/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/purchase/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/sms_email/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/sms_email/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/sms_email/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/software_subscription/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/software_subscription/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/software_subscription/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/student/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/student/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/student/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/system_settings/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/system_settings/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/system_settings/"/>
+    </url>
+    <url>
+        <loc>Noneadmin/user_manage/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/user_manage/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/user_manage/"/>
+    </url>
+    <url>
         <loc>Nonebn/</loc>
-        <lastmod>2025-06-23</lastmod>
+        <lastmod>2025-07-10</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/"/>
         <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/academic_cards/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/academic_cards/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/academic_cards/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/academic_setup/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/academic_setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/academic_setup/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/accounting/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/accounting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/accounting/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/admission/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/admission/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/admission/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/attendance/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/attendance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/attendance/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/boarding_management/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/boarding_management/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/boarding_management/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/dashboard/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/dashboard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/dashboard/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/event_news/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/event_news/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/event_news/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/exam/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/exam/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/exam/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/fees/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/fees/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/fees/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/front_office/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/front_office/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/front_office/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/frontend_setup/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/frontend_setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/frontend_setup/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/fund/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/fund/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/fund/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/home_work/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/home_work/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/home_work/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/hrm_payroll/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/hrm_payroll/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/hrm_payroll/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/inventory/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/inventory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/inventory/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/item_configuration/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/item_configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/item_configuration/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/leave_management/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/leave_management/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/leave_management/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/marks_result/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/marks_result/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/marks_result/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/notice_and_uploads/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/notice_and_uploads/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/notice_and_uploads/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/profile/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/profile/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/profile/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/purchase/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/purchase/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/purchase/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/sms_email/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/sms_email/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/sms_email/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/software_subscription/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/software_subscription/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/software_subscription/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/student/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/student/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/student/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/system_settings/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/system_settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/system_settings/"/>
+    </url>
+    <url>
+        <loc>Nonebn/admin/user_manage/</loc>
+        <lastmod>2025-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="bn" href="Nonebn/admin/user_manage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneadmin/user_manage/"/>
     </url>
 </urlset>
