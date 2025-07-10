@@ -32,32 +32,32 @@ plugins:
           build: true
           
 nav:
-  - Home: 'index.md'
+  - Home: index.md
   - Admin: 
-    - Dashboard: 'dashboard.md'
-    - Admission: admission.md 
-    - Student: student.md 
-    - Attendance: attendance.md
-    - Fees: fees.md 
-    - Boarding Management: boarding_management.md 
-    - Fund: fund.md 
-    - HRM & Payroll: hrm_payroll.md 
-    - Leave Management: leave_management.md 
-    - Notice and Uploads: notice_and_uploads.md 
-    - Home Work: home_work.md 
-    - Exam: exam.md 
-    - Marks & Result: marks_result.md 
-    - SMS & Email: sms_email.md 
-    - Event & News: event_news.md 
-    - Accounting: accounting.md 
-    - Academic Setup: academic_setup.md 
-    - Academic Cards: academic_cards.md 
-    - Front Office: front_office.md 
-    - Item Configuration: item_configuration.md 
-    - Purchase: purchase.md 
-    - Inventory: inventory.md 
-    - System Settings: system_settings.md 
-    - User Manage: user_manage.md 
-    - Profile: profile.md 
-    - Frontend Setup: frontend_setup.md 
-    - Software Subscription: software_subscription.md 
+    - Dashboard: admin/dashboard.md
+    - Admission: admin/admission.md 
+    - Student: admin/student.md 
+    - Attendance: admin/attendance.md
+    - Fees: admin/fees.md 
+    - Boarding Management: admin/boarding_management.md 
+    - Fund: admin/fund.md 
+    - HRM & Payroll: admin/hrm_payroll.md 
+    - Leave Management: admin/leave_management.md 
+    - Notice and Uploads: admin/notice_and_uploads.md 
+    - Home Work: admin/home_work.md 
+    - Exam: admin/exam.md 
+    - Marks & Result: admin/marks_result.md 
+    - SMS & Email: admin/sms_email.md 
+    - Event & News: admin/event_news.md 
+    - Accounting: admin/accounting.md 
+    - Academic Setup: admin/academic_setup.md 
+    - Academic Cards: admin/academic_cards.md 
+    - Front Office: admin/front_office.md 
+    - Item Configuration: admin/item_configuration.md 
+    - Purchase: admin/purchase.md 
+    - Inventory: admin/inventory.md 
+    - System Settings: admin/system_settings.md 
+    - User Manage: admin/user_manage.md 
+    - Profile: admin/profile.md 
+    - Frontend Setup: admin/frontend_setup.md 
+    - Software Subscription: admin/software_subscription.md 
